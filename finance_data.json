@@ -1,0 +1,31 @@
+{
+    "home": {
+        "balance": 595.0,
+        "transactions": [
+            {
+                "date": "2024-04-04",
+                "description": "something",
+                "amount": 50.0,
+                "category": "category"
+            },
+            {
+                "date": "2024-04-05",
+                "description": "new",
+                "amount": -50.0,
+                "category": ""
+            },
+            {
+                "date": "2024-05-04",
+                "description": "something",
+                "amount": 50.0,
+                "category": ""
+            },
+            {
+                "date": "13123123",
+                "description": "fdf",
+                "amount": 45.0,
+                "category": ""
+            }
+        ]
+    }
+}
